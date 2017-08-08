@@ -8,4 +8,4 @@ When both player and dealer have the same score, it's a draw.
 When one of the players hits the score 21 he automatically won the game.
 
 This is a test repo, created for educational purposes.
-There will probably be no future commits.
+There will be no future commits.
